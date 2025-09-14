@@ -33,7 +33,7 @@ We do **not** collect sensitive categories (health, biometrics, precise location
 We retain account and transaction records for as long as your account is active and as required for legal/accounting purposes. Backups may persist for a limited time.
 
 ## 6. Security
-We use industry practices including encryption in transit (TLS), encryption at rest (by Firebase), access control (principle of least privilege), and monitoring. See our [Security page](guessio-site/security) for more details.
+We use industry practices including encryption in transit (TLS), encryption at rest (by Firebase), access control (principle of least privilege), and monitoring. See our Security page for more details.
 
 ## 7. Your rights & choices
 - **Access, correction, deletion.** Email us to request a copy, correction, or deletion of your data.  
