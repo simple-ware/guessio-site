@@ -1,8 +1,3 @@
----
-layout: default
-title: Data Deletion
----
-
 # Data Deletion
 
 You can permanently delete your Guessio account and associated data. This page explains how.
