@@ -1,0 +1,6 @@
+title: Guessio — Privacy & Security
+theme: jekyll-theme-cayman
+description: Privacy Policy and Security Practices for Guessio
+# serve a .well-known directory (GitHub Pages/Jekyll ignores dot folders unless included)
+include:
+  - .well-known
