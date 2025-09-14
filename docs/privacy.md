@@ -58,7 +58,7 @@ We may process data in the country of our providers (e.g., the EU or US). We rel
 
 ## 10. Contact
 **Data Controller:** Guessio / SimpleWare Ltd (if you’ve set up the company)  
-**Email:** privacy@yourdomain.com
+**Email:** simpleware@mail.com
 
 ## 11. Changes
 We will update this policy as needed. Material changes will be highlighted on this page.
