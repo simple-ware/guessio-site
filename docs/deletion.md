@@ -32,8 +32,7 @@ Email us from the address on your account:
 - **Subject:** `Delete my Guessio account`  
 - **Include:** your display name (and, if possible, your user ID)
 
-**Contact:** `privacy@yourdomain.com`  
-simpleware@mail.com
+**Contact:** `support@simple-ware.co.uk`  
 
 We’ll verify ownership and process the deletion.
 
@@ -44,9 +43,9 @@ We’ll verify ownership and process the deletion.
 You can use the **in-app delete** above.  
 If you prefer to start from Facebook:
 
-1. Go to **Facebook → Settings & privacy → Settings → Apps and Websites**  
-2. Find **Guessio** → **Remove**  
-3. Submit a deletion request via the in-app method or email (above) so we can remove your Guessio data on our side.
+1. Submit a deletion request via the in-app method or email (above) so we can remove your Guessio data on our side.
+2. Go to **Facebook → Settings & privacy → Settings → Apps and Websites**  
+3. Find **Guessio** → **Remove**  
 
 > If Facebook asks for a “data deletion” page, link to this URL.
 
