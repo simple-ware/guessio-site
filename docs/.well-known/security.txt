@@ -1,4 +1,4 @@
-Contact: mailto:security@yourdomain.com
-Policy: https://<your-domain-or-username>.github.io/guessio-site/security
+Contact: mailto:simplewarey@mail.com
+Policy: https://simple-ware.github.io/guessio-site/security
 Preferred-Languages: en
-Canonical: https://<your-domain-or-username>.github.io/guessio-site/.well-known/security.txt
+Canonical: https://simple-ware.github.io/guessio-site/.well-known/security.txt
