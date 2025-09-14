@@ -1,8 +1,3 @@
----
-layout: default
-title: Guessio — Policies
----
-
 # Guessio — Privacy & Security
 
 - **Privacy Policy:** [/privacy](/privacy)  
