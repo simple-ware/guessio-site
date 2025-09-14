@@ -1,5 +1,4 @@
 # Guessio – Privacy & Security
 
-- **Privacy Policy:** [Privacy Policy](./privacy)
-- **Security / Vulnerability Disclosure:** [Security](./security)
-- **security.txt:** [/.well-known/security.txt](/.well-known/security.txt)
+- **Privacy Policy:** [/docs/privacy](/docs/privacy)
+- **Security / Vulnerability Disclosure:** [/docs/security](/docs/security)
