@@ -15,8 +15,7 @@ We take security seriously and welcome reports from researchers and the communit
 - **Dependency hygiene:** Regular updates and automated checks.
 
 ## Report a vulnerability
-Please email **security@yourdomain.com** with a description, reproduction steps, and impact.  
-We will acknowledge receipt within **3 business days** and aim to provide an initial assessment within **7 business days**.
+Please email **simpleware@mail.com** with a description, reproduction steps, and impact.  
 
 **Please do not** publicly disclose before we confirm a fix or 90 days pass (whichever is sooner), unless mutually agreed.
 
