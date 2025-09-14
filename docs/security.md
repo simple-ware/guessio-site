@@ -19,14 +19,7 @@ Please email **simpleware@mail.com** with a description, reproduction steps, and
 
 **Please do not** publicly disclose before we confirm a fix or 90 days pass (whichever is sooner), unless mutually agreed.
 
-## Out of scope (examples)
+## Out of scope
 - Social engineering against staff/users  
 - Physical attacks  
 - Issues requiring rooted/jailbroken devices
-
-## Legal safe harbor
-If you follow this policy in good faith, we will not pursue or support legal action against you for your research.
-
-## PGP (optional)
-If you prefer encrypted email, provide your public key here.
-
