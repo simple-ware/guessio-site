@@ -15,7 +15,7 @@ We take security seriously and welcome reports from researchers and the communit
 - **Dependency hygiene:** Regular updates and automated checks.
 
 ## Report a vulnerability
-Please email **simpleware@mail.com** with a description, reproduction steps, and impact.  
+Please email **support@simple-ware.co.uk** with a description, reproduction steps, and impact.  
 
 **Please do not** publicly disclose before we confirm a fix or 90 days pass (whichever is sooner), unless mutually agreed.
 
