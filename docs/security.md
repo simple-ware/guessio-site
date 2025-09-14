@@ -1,8 +1,3 @@
----
-layout: default
-title: Security & Vulnerability Disclosure
----
-
 # Security & Vulnerability Disclosure
 
 We take security seriously and welcome reports from researchers and the community.
