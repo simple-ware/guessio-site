@@ -54,7 +54,7 @@ We may process data in the country of our providers (e.g., the EU or US). We rel
 
 ## 10. Contact
 **Data Controller:** simpleWare Ltd
-**Email:** simpleware@mail.com
+**Email:** support@simple-ware.co.uk
 
 ## 11. Changes
 We will update this policy as needed. Material changes will be highlighted on this page.
